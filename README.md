@@ -31,7 +31,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hoangduc120&theme=monokai&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/anii_akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
 </p>
 <br>
 ------
